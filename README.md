@@ -2,7 +2,7 @@ Creating Websit using Canva:
 
 1.Website link: https://kimcrtgn15.my.canva.site/exploreittourism
 
-2.Drive link : https://drive.google.com/file/d/188rPmoPKqhVdhobXorAx2Xfueu-VNkb_/view?usp=share_link
+2.Drive link : https://drive.google.com/file/d/1Fejzbo8PGon9c0soZx5Q4RChzX_r27FG/view?usp=drivesdk
 
 Contributors:
 
